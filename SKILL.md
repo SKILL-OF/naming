@@ -1,3 +1,8 @@
+---
+name: naming
+description: Use when naming an agent, a class, a repository or a skill, to apply the role-noun naming rule.
+---
+
 # Skill draft: naming
 
 Status: draft, not installed. Written by the instruction-architect lane, W2.D3. Proposal only. Installation goes through a branch and a pull request, and the owner merges.
